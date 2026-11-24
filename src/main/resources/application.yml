@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: spring-ai-learning-labs
+  profiles:
+    default: demo
+  ai:
+    openai:
+      api-key: ${OPENAI_API_KEY:}
+
+server:
+  port: 8080

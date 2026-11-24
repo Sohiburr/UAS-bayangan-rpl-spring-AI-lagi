@@ -1,0 +1,9 @@
+target/
+.idea/
+.vscode/
+*.iml
+*.log
+.env
+Spring_AI-ebook.pdf
+.tools/
+__pycache__/
